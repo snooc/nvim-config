@@ -1,0 +1,12 @@
+{
+  "dressing.nvim": { "branch": "master", "commit": "5f44f829481640be0f96759c965ae22a3bcaf7ce" },
+  "everforest": { "branch": "master", "commit": "164a44fe8655ff66073189bf6b0a718bfaffa0c0" },
+  "gitsigns.nvim": { "branch": "main", "commit": "b1f9cf7c5c5639c006c937fc1819e09f358210fc" },
+  "lazy.nvim": { "branch": "main", "commit": "8077428e63feb0f3bf795d53b23ba1695b28ab0e" },
+  "lualine.nvim": { "branch": "master", "commit": "e99d733e0213ceb8f548ae6551b04ae32e590c80" },
+  "mason.nvim": { "branch": "main", "commit": "c400270804059087e2d0041893a95c6bab4df3c1" },
+  "nvim-treesitter": { "branch": "master", "commit": "980f0816cc28c20e45715687a0a21b5b39af59eb" },
+  "nvim-treesitter-textobjects": { "branch": "master", "commit": "98c66344d2f25a3976a81d76256f0027327abadc" },
+  "nvim-web-devicons": { "branch": "master", "commit": "b8d173b330cff94258482ccfe8c024bd8051da6e" },
+  "oil.nvim": { "branch": "master", "commit": "0b2a4ddde1c8a881c2d1620a673c12914bd6d1dc" }
+}
